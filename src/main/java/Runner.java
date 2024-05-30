@@ -6,6 +6,7 @@ public class Runner {
         System.out.println("git add : staging areaya alır");
 
         // cls terminal ekranını temizler
+        // git status kontrol eder
 
 
 
