@@ -11,17 +11,7 @@ public class Runner {
         // cls terminal ekranını temizler
         // git status kontrol eder
 
-
-
-
-
-
-
-
-
-
-
-
-
+        // version 3
+        System.out.println("geçmişe yolculuk");
     }
 }
