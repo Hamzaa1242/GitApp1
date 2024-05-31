@@ -5,17 +5,5 @@ public class Runner02 {
 
         // version 4
         System.out.println("SA");
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
